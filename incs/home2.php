@@ -144,10 +144,6 @@
 
 <div class="in-social">
 	<div class="container">
-		<div class="row">
-			<div class="col-sm-4">
-				
-			</div>
-		</div>
+		<div class="sharethis-inline-follow-buttons"></div>
 	</div>
 </div>
