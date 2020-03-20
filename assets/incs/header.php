@@ -10,10 +10,44 @@
 
       </div>
       <div class="cta">
-        <a href="#about" class="scrollto">Get Price</a>
+        <a data-toggle="modal" data-target="#myModal" class="scrollto">Get Price</a>
       </div>
     </div>
   </section>
+
+  <!-- The Modal -->
+  <div class="modal fade" id="myModal">
+    <div class="modal-dialog modal-sm">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Who You Are?</h4>
+        </div>
+        
+        <!-- Modal body -->
+        <div class="modal-body">
+          
+            <form class="form-group" method="post">
+                <select class="form-control" name="wyr">
+                    <option> select </option>
+                    <option> Whole Seller </option>
+                    <option> Distrubuter </option>
+                    <option> Supplier </option>
+                </select>
+                <input class="btn btn-success mr-auto" type="submit" name="swyr" value="submit">
+            </form>
+
+        </div>
+        
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
 
   <!-- ======= Header ======= -->
   <header id="header">
@@ -29,24 +63,8 @@
         <ul>
           <li class="active"><a href="#header">Home</a></li>
           <li><a href="index.php?page=about">About</a></li>
-          <li class="drop-down"><a href="#services">Categories</a>
-            <ul>
-              <li class="drop-down"><a href="#">Dental Instruments</a>
-                <ul>
-                  <li><a href="#">Extraction Forceps</a></li>
-                  <li><a href="#">Root Elevators</a></li>
-                  <li><a href="#">Diagnostics, Periodontal & Restorative Instruments</a></li>
-                  <li><a href="#">Maxillofacial Plier & Instruments</a></li>
-                  <li><a href="#">Dental Implants Instruments</a></li>
-                  <li><a href="#">Impression Tray & Hollow Ware</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Surgical Instruments</a></li>
-              <li><a href="#">Beauty Instruments</a></li>
-            </ul>
-          </li>
+          <li><a href="#">Categories</a></li>
           <li><a href="#contact">Contact</a></li>
-
         </ul>
       </nav><!-- .nav-menu -->
 
