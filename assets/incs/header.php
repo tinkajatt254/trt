@@ -78,7 +78,7 @@
         <ul>
           <li class="active"><a href="#header">Home</a></li>
           <li><a href="index.php?page=about">About</a></li>
-          <li><a href="#">Categories</a></li>
+          <li><a href="#services">Categories</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav><!-- .nav-menu -->
