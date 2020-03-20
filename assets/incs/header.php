@@ -17,7 +17,7 @@
 
   <!-- The Modal -->
   <div class="modal fade" id="myModal">
-    <div class="modal-dialog modal-sm">
+    <div class="modal-dialog modal-lg">
       <div class="modal-content">
       
         <!-- Modal Header -->
@@ -29,13 +29,28 @@
         <div class="modal-body">
           
             <form class="form-group" method="post">
-                <select class="form-control" name="wyr">
-                    <option> select </option>
-                    <option> Whole Seller </option>
-                    <option> Distrubuter </option>
-                    <option> Supplier </option>
-                </select>
-                <input class="btn btn-success mr-auto" type="submit" name="swyr" value="submit">
+                <table>
+                    <tr>
+                        <td> <input class="form-control" type="text" name="cname" placeholder="your name" required> </td>
+                    </tr>
+
+                    <tr>
+                        <td> <input class="form-control" type="email" name="cemail" placeholder="your email" required> </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <select class="form-control" name="ctype">
+                                <option value="0">select</option>
+                                <option value="0">Whole Seller</option>
+                                <option value="0">Distributer</option>
+                                <option value="0">Suppler</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td> <input style="margin-top: 20px;" type="submit" name="client" class="btn btn-success" value="submit"> </td>
+                    </tr>
+                </table>
             </form>
 
         </div>
