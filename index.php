@@ -37,11 +37,21 @@
 
 <body>
 
-  
+  <?php
 
-  
+    include "assets/incs/header.php";
 
-  
+    if (isset($_GET['page'])) {
+        $page = $_GET['page'];
+        include "assets/incs/$page.php";
+    }else{
+        include "assets/incs/home.php";
+    }
+
+
+    include "assets/incs/footer.php";
+
+  ?>
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
