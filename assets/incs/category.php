@@ -13,3 +13,14 @@
               <li><a href="#">Beauty Instruments</a></li>
             </ul> -->
 
+<div class="container">
+	
+	<div class="row">
+		<div class="col-sm-4 cat1">
+			<h1> Dental Instruments </h1>
+			<img src="#" height="100" width="100">
+			<p> some text here </p>
+		</div>
+	</div>
+
+</div>
