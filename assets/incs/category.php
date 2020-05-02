@@ -17,7 +17,19 @@
 	
 	<div class="row">
 		<div class="col-sm-4 cat1">
-			<h1> Dental Instruments </h1>
+			<h2> Dental Instruments </h2>
+			<img src="#" height="100" width="100">
+			<p> some text here </p>
+		</div>
+
+		<div class="col-sm-4 cat1">
+			<h2> Surgical Instruments </h2>
+			<img src="#" height="100" width="100">
+			<p> some text here </p>
+		</div>
+
+		<div class="col-sm-4 cat1">
+			<h2> Beauty Instruments </h2>
 			<img src="#" height="100" width="100">
 			<p> some text here </p>
 		</div>
