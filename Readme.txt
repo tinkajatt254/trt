@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for downloading this theme!
 
-Template Name: Flexor
-Template URL: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
+Theme Name: Medilab
+Theme URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
 Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Author URL: https://bootstrapmade.com
