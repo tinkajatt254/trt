@@ -1,15 +1,14 @@
 
- 
   <!--about-->
   <section id="about" class="section-padding">
     <div class="container">
       <div class="row">
         <div class="col-md-3 col-sm-4 col-xs-12">
           <div class="section-title">
-            <h2 class="head-title lg-line">The Medilap <br>Ultimate Dream</h2>
+            <h3 class="head-title lg-line">TonyRockWellTools</h3>
             <hr class="botm-line">
             <p class="sec-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
-            <a href="" style="color: #0cb8b6; padding-top:10px;">Know more..</a>
+            <a href="" style="color: #0cb8b6; padding-top:10px;">Read more..</a>
           </div>
         </div>
         <div class="col-md-9 col-sm-8 col-xs-12">
@@ -17,14 +16,14 @@
             <div class="more-features-box-text">
               <div class="more-features-box-text-icon"> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
               <div class="more-features-box-text-description">
-                <h3>It's something important you want to know.</h3>
+                <h3>One Stop Shop</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud.</p>
               </div>
             </div>
             <div class="more-features-box-text">
               <div class="more-features-box-text-icon"> <i class="fa fa-angle-right" aria-hidden="true"></i> </div>
               <div class="more-features-box-text-description">
-                <h3>It's something important you want to know.</h3>
+                <h3>Reliable</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud.</p>
               </div>
             </div>
@@ -46,7 +45,7 @@
           <div class="thumbnail">
             <img src="img/doctor1.jpg" alt="..." class="team-img">
             <div class="caption">
-              <h3>Dental Instruments</h3>
+              <a href="#"><h3>Dental Instruments</h3></a>
             </div>
           </div>
         </div>
@@ -54,7 +53,7 @@
           <div class="thumbnail">
             <img src="img/doctor2.jpg" alt="..." class="team-img">
             <div class="caption">
-              <h3>Surgical Instruments</h3>
+              <a href="#"><h3>Surgical Instruments</h3></a>
             </div>
           </div>
         </div>
@@ -62,7 +61,7 @@
           <div class="thumbnail">
             <img src="img/doctor3.jpg" alt="..." class="team-img">
             <div class="caption">
-              <h3>Beauty Instruments</h3>
+              <a href="#"><h3>Beauty Instruments</h3></a>
             </div>
           </div>
         </div>
@@ -128,7 +127,7 @@
         </div>
         <div class="col-md-4 col-sm-5">
           Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a typek
-          <p class="text-right text-primary"><i>— Medilap Healthcare</i></p>
+          <p class="text-right text-primary"><i>— TonyRockWellTools</i></p>
         </div>
         <div class="col-md-2"></div>
       </div>
