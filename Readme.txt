@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+Thanks for downloading this template!
 
-Theme Name: Medilab
-Theme URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
+Template Name: Baker
+Template URL: https://bootstrapmade.com/baker-free-onepage-bootstrap-theme/
 Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+License: https://bootstrapmade.com/license/
